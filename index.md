@@ -1,9 +1,11 @@
 ---
 ---
 
-# andrewdhawan's Website
+# Tabula Rasa Lab
 
-An engaging 1-3 sentence description of your lab.
+Unraveling brain tumors and neurogenetic diseases using computational genomics, translating discovery and biomarkers to improve patient care
+
+Cleveland Clinic Lerner Research Institute
 
 {% include section.html %}
 
@@ -11,7 +13,7 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Glioblastoma biology, miRNA therapeutics, wearables, and -omics.
 
 {%
   include button.html
@@ -34,7 +36,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+See the latest publications from our lab!
 
 {%
   include button.html
@@ -59,7 +61,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We have a number of open projects, and are looking for clever and creative minds to help!
 
 {%
   include button.html
