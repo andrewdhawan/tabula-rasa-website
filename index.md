@@ -3,9 +3,11 @@
 
 # Tabula Rasa Lab
 
-Unraveling brain tumors and neurogenetic diseases using computational genomics, translating discovery and biomarkers to improve patient care
+**Welcome to the Tabula Rasa Lab, where we are unraveling brain tumors and neurogenetic diseases using computational genomics.**
 
-Cleveland Clinic Lerner Research Institute
+**We aim to translate discoveries and biomarkers to improve patient care.**
+
+**Cleveland Clinic Lerner Research Institute**
 
 {% include section.html %}
 
