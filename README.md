@@ -1,5 +1,5 @@
 
-# andrewdhawan's Website
+# Tabula Rasa Lab Website
 
 Visit **[tabularasalab.org](http://tabularasalab.org)** 🚀
 
