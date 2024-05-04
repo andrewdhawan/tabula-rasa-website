@@ -1,5 +1,41 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1002/acn3.52046
+  title: 'Exploring the neurological features of individuals with germline <scp>PTEN</scp>
+    variants: A multicenter study'
+  authors:
+  - Andrew Dhawan
+  - Sarah Baitamouni
+  - Darren Liu
+  - Robyn Busch
+  - Patricia Klaas
+  - Thomas W. Frazier
+  - Siddharth Srivastava
+  - Sumit Parikh
+  - Gary E. Hsich
+  - Neil R. Friedman
+  - David M. Ritter
+  - Antonio Y. Hardan
+  - "Julian A. Martinez\u2010Agosto"
+  - Mustafa Sahin
+  - Charis Eng
+  publisher: Annals of Clinical and Translational Neurology
+  date: '2024-03-19'
+  link: https://doi.org/gtn2bc
+  orcid: 0000-0002-5027-1277
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.joclim.2023.100284
+  title: 'Neurology and climate change: What we know and where we are going'
+  authors:
+  - Jonathan Doan
+  - Andrew Dhawan
+  publisher: The Journal of Climate Change and Health
+  date: '2024-03-01'
+  link: https://doi.org/gs5d9w
+  orcid: 0000-0002-5027-1277
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1212/WNL.0000000000201630
   title: Impacts of Climate Change and Air Pollution on Neurologic Health, Disease,
     and Practice
@@ -32,6 +68,62 @@
   orcid: 0000-0002-5027-1277
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1038/s41698-023-00375-y
+  title: Exploiting convergent phenotypes to derive a pan-cancer cisplatin response
+    gene expression signature
+  authors:
+  - Jessica A. Scarborough
+  - Steven A. Eschrich
+  - Javier Torres-Roca
+  - Andrew Dhawan
+  - Jacob G. Scott
+  publisher: npj Precision Oncology
+  date: '2023-04-19'
+  link: https://doi.org/gr5sdq
+  orcid: 0000-0002-5027-1277
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3949/ccjm.90a.23044
+  title: Is the<i>MTHFR</i>gene mutation associated with thrombosis?
+  authors:
+  - Andrew Dhawan
+  - Charis Eng
+  publisher: Cleveland Clinic Journal of Medicine
+  date: '2023-11-01'
+  link: https://doi.org/gs7sf4
+  orcid: 0000-0002-5027-1277
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1200/JCO.22.00996
+  title: Phase IIa Study of SurVaxM Plus Adjuvant Temozolomide for Newly Diagnosed
+    Glioblastoma
+  authors:
+  - Manmeet S. Ahluwalia
+  - David A. Reardon
+  - Ajay P. Abad
+  - William T. Curry
+  - Eric T. Wong
+  - Sheila A. Figel
+  - Laszlo L. Mechtler
+  - David M. Peereboom
+  - Alan D. Hutson
+  - Henry G. Withers
+  - Song Liu
+  - Ahmed N. Belal
+  - Jingxin Qiu
+  - Kathleen M. Mogensen
+  - Sanam S. Dharma
+  - Andrew Dhawan
+  - Meaghan T. Birkemeier
+  - Danielle M. Casucci
+  - Michael J. Ciesielski
+  - Robert A. Fenstermaker
+  publisher: Journal of Clinical Oncology
+  date: '2023-03-01'
+  link: https://doi.org/grkmn2
+  orcid: 0000-0002-5027-1277
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.2217/cns-2022-0008
   title: "First clinical experience with belzutifan in von Hippel\u2013Lindau disease\_\
     associated CNS hemangioblastoma"
@@ -42,6 +134,32 @@
   publisher: CNS Oncology
   date: '2022-09-01'
   link: https://doi.org/gsb3cp
+  orcid: 0000-0002-5027-1277
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.21203/rs.3.rs-2121659/v1
+  title: Exploiting convergent evolution to derive a pan-cancer cisplatin response
+    gene expression signature
+  authors:
+  - Jacob Scott
+  - Jessica Scarborough
+  - Steven Eschrich
+  - Javier Torres-Roca
+  - Andrew Dhawan
+  publisher: Research Square Platform LLC
+  date: '2022-10-17'
+  link: https://doi.org/gs7sf5
+  orcid: 0000-0002-5027-1277
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-031-08356-3_8
+  title: Machine Learning Using Gene-Sets to Infer miRNA Function
+  authors:
+  - Andrew Dhawan
+  - Francesca M. Buffa
+  publisher: Advances in Experimental Medicine and Biology
+  date: '2022-01-01'
+  link: https://doi.org/gs7sf6
   orcid: 0000-0002-5027-1277
   plugin: orcid.py
   file: orcid.yaml
@@ -137,6 +255,35 @@
   publisher: PLOS ONE
   date: '2021-07-26'
   link: https://doi.org/gmhk73
+  orcid: 0000-0002-5027-1277
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2021.08.30.458145
+  title: Dicer-to-Argonaute switch controls biogenesis of oncogenic miRNA
+  authors:
+  - L. Winchester
+  - L. van Bijsterveldt
+  - A. Dhawan
+  - S. Wigfield
+  - C. Triantafyllidis
+  - S. Haider
+  - A. McIntyre
+  - T.C. Humphrey
+  - A.L. Harris
+  - F.M. Buffa
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-08-31'
+  link: https://doi.org/gs7sf7
+  orcid: 0000-0002-5027-1277
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-1-0716-1503-4_7
+  title: Mathematical Modeling of ceRNA-Based Interactions
+  authors:
+  - Andrew Dhawan
+  publisher: Methods in Molecular Biology
+  date: '2021-01-01'
+  link: https://doi.org/gs7sf8
   orcid: 0000-0002-5027-1277
   plugin: orcid.py
   file: orcid.yaml
@@ -264,6 +411,55 @@
   orcid: 0000-0002-5027-1277
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1016/j.clinph.2020.08.003
+  title: Continuous electroencephalography characteristics and acute symptomatic seizures
+    in COVID-19 patients
+  authors:
+  - Shreya Louis
+  - Andrew Dhawan
+  - Christopher Newey
+  - Dileep Nair
+  - Lara Jehi
+  - Stephen Hantus
+  - Vineet Punia
+  publisher: Clinical Neurophysiology
+  date: '2020-11-01'
+  link: https://doi.org/gs7sf9
+  orcid: 0000-0002-5027-1277
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.02.11.943936
+  title: "Identifying states of collateral sensitivity during the evolution of therapeutic\
+    \ resistance in Ewing\u2019s sarcoma"
+  authors:
+  - Jessica A. Scarborough
+  - Erin McClure
+  - Peter Anderson
+  - Andrew Dhawan
+  - Arda Durmaz
+  - Stephen L. Lessnick
+  - Masahiro Hitomi
+  - Jacob G. Scott
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-02-12'
+  link: https://doi.org/gkz59d
+  orcid: 0000-0002-5027-1277
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.oraloncology.2019.104473
+  title: "Mathematical oncology and it\u2019s application in non melanoma skin cancer\
+    \ \u2013 A primer for radiation oncology professionals"
+  authors:
+  - Noel J. Aherne
+  - Andrew Dhawan
+  - Jacob G. Scott
+  - Heiko Enderling
+  publisher: Oral Oncology
+  date: '2020-04-01'
+  link: https://doi.org/gs7sgb
+  orcid: 0000-0002-5027-1277
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.jtbi.2018.10.055
   title: Endogenous miRNA sponges mediate the generation of oscillatory dynamics for
     a non-coding RNA network
@@ -345,6 +541,116 @@
   orcid: 0000-0002-5027-1277
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1038/s41398-019-0677-1
+  title: A computationally inspired in-vivo approach identifies a link between amygdalar
+    transcriptional heterogeneity, socialization and anxiety
+  authors:
+  - Aaron Goldman
+  - Joshua L. Smalley
+  - Meeta Mistry
+  - Harald Krenzlin
+  - Hong Zhang
+  - Andrew Dhawan
+  - Barbara Caldarone
+  - Stephen J. Moss
+  - David A. Silbersweig
+  - Sean E. Lawler
+  - Ilana M. Braun
+  publisher: Translational Psychiatry
+  date: '2019-12-09'
+  link: https://doi.org/gs7sgc
+  orcid: 0000-0002-5027-1277
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-030-23417-1_20
+  title: Brain Metastases from Lung Tumors
+  authors:
+  - Andrew Dhawan
+  - Manmeet Ahluwalia
+  publisher: Central Nervous System Metastases
+  date: '2019-11-06'
+  link: https://doi.org/gs7sgd
+  orcid: 0000-0002-5027-1277
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-030-23417-1_23
+  title: Miscellaneous Metastases
+  authors:
+  - Andrew Dhawan
+  - David Peereboom
+  publisher: Central Nervous System Metastases
+  date: '2019-11-06'
+  link: https://doi.org/gs7sgf
+  orcid: 0000-0002-5027-1277
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/854695
+  title: Network potential identifies therapeutic <i>miRNA</i> cocktails in Ewing
+    sarcoma
+  authors:
+  - Davis T. Weaver
+  - Kathleen I. Pishas
+  - Drew Williamson
+  - Jessica Scarborough
+  - Stephen L. Lessnick
+  - Andrew Dhawan
+  - Jacob G. Scott
+  publisher: Cold Spring Harbor Laboratory
+  date: '2019-11-27'
+  link: https://doi.org/gk2qnj
+  orcid: 0000-0002-5027-1277
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1259/bjr.20190198
+  title: '<i>RadiationGeneSigDB</i>: a database of oxic and hypoxic radiation response
+    gene signatures and their utility in pre-clinical research'
+  authors:
+  - Venkata SK Manem
+  - Andrew Dhawan
+  publisher: The British Journal of Radiology
+  date: '2019-11-01'
+  link: https://doi.org/gs7sgg
+  orcid: 0000-0002-5027-1277
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s40778-019-0153-0
+  title: 'Recasting the Cancer Stem Cell Hypothesis: Unification Using a Continuum
+    Model of Microenvironmental Forces'
+  authors:
+  - Jacob G. Scott
+  - Andrew Dhawan
+  - Anita Hjelmeland
+  - Justin Lathia
+  - Anastasia Chumakova
+  - Masahiro Hitomi
+  - Alexander G. Fletcher
+  - Philip K. Maini
+  - Alexander R. A. Anderson
+  publisher: Current Stem Cell Reports
+  date: '2019-02-15'
+  link: https://doi.org/gs7sgh
+  orcid: 0000-0002-5027-1277
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/imammb/dqx022
+  title: Simulated ablation for detection of cells impacting paracrine signalling
+    in histology analysis
+  authors:
+  - "Jake P Taylor\u2013King"
+  - Etienne Baratchart
+  - Andrew Dhawan
+  - Elizabeth A Coker
+  - Inga Hansine Rye
+  - Hege Russnes
+  - S Jon Chapman
+  - David Basanta
+  - Andriy Marusyk
+  publisher: 'Mathematical Medicine and Biology: A Journal of the IMA'
+  date: '2018-02-14'
+  link: https://doi.org/gs7sgj
+  orcid: 0000-0002-5027-1277
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/s41467-018-07657-1
   title: Pan-cancer characterisation of microRNA across cancer hallmarks reveals microRNA-mediated
     downregulation of tumour suppressors
@@ -387,6 +693,69 @@
   orcid: 0000-0002-5027-1277
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.48550/arxiv.1812.04567
+  title: A flat persistence diagram for improved visualization of persistent homology
+  authors:
+  - Raoul R. Wadhwa
+  - Andrew Dhawan
+  - Drew F. K. Williamson
+  - Jacob G. Scott
+  publisher: arXiv
+  date: '2018-01-01'
+  link: https://doi.org/gs7sgk
+  orcid: 0000-0002-5027-1277
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/IMAMMB/DQX006
+  title: Modelling recurrence and second cancer risks induced by proton therapy
+  authors:
+  - V S K Manem
+  - A Dhawan
+  publisher: 'Mathematical Medicine and Biology: A Journal of the IMA'
+  date: '2017-07-04'
+  link: https://doi.org/gd7rb5
+  orcid: 0000-0002-5027-1277
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/455345
+  title: '<i>RadiationGeneSigDB</i>: A database of oxic and hypoxic radiation response
+    gene signatures and their utility in identification of hypoxia-regulated MicroRNA'
+  authors:
+  - Venkata SK. Manem
+  - Andrew Dhawan
+  publisher: Cold Spring Harbor Laboratory
+  date: '2018-10-29'
+  link: https://doi.org/gkvkm8
+  orcid: 0000-0002-5027-1277
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/504837
+  title: Resistance to targeted therapies as a multifactorial, gradual adaptation
+    to inhibitor specific selective pressures
+  authors:
+  - Robert Vander Velde
+  - Nara Yoon
+  - Viktoriya Marusyk
+  - Arda Durmaz
+  - Andrew Dhawan
+  - Daria Myroshnychenko
+  - Diego Lozano-Peral
+  - Bina Desai
+  - Olena Balynska
+  - Jan Poleszhuk
+  - Liu Kenian
+  - Mohamed Abazeed
+  - Omar Mian
+  - Aik Choon Tan
+  - Eric Haura
+  - Jacob Scott
+  - Andriy Marusyk
+  publisher: Cold Spring Harbor Laboratory
+  date: '2018-12-25'
+  link: https://doi.org/gfscr6
+  orcid: 0000-0002-5027-1277
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/169615
   title: 'Recasting the cancer stem cell hypothesis: unification using a continuum
     model of microenvironmental forces'
@@ -423,6 +792,107 @@
   orcid: 0000-0002-5027-1277
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1542/peds.2016-1281
+  title: Are Patients With Loeys-Dietz Syndrome Misdiagnosed With Beals Syndrome?
+  authors:
+  - Rebecca Woolnough
+  - Andrew Dhawan
+  - Kimberly Dow
+  - Jagdeep S. Walia
+  publisher: Pediatrics
+  date: '2017-03-01'
+  link: https://doi.org/gs7sgm
+  orcid: 0000-0002-5027-1277
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/211151
+  title: Dark selection for JAK/STAT-inhibitor resistance in chronic myelomonocytic
+    leukemia
+  authors:
+  - Artem Kaznatcheev
+  - David Robert Grimes
+  - Robert Vander Velde
+  - Vincent Cannataro
+  - Etienne Baratchart
+  - Andrew Dhawan
+  - Lin Liu
+  - Daria Myroshnychenko
+  - Jake P. Taylor-King
+  - Nara Yoon
+  - Eric Padron
+  - Andriy Marusyk
+  - David Basanta
+  publisher: Cold Spring Harbor Laboratory
+  date: '2017-10-30'
+  link: https://doi.org/gkxkhm
+  orcid: 0000-0002-5027-1277
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.mbs.2016.11.008
+  title: Mathematical modelling of plasticity and phenotype switching in cancer cell
+    populations
+  authors:
+  - Seyed Ali Madani Tonekaboni
+  - Andrew Dhawan
+  - Mohammad Kohandel
+  publisher: Mathematical Biosciences
+  date: '2017-01-01'
+  link: https://doi.org/f9pg4v
+  orcid: 0000-0002-5027-1277
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/238675
+  title: Pan-cancer characterisation of microRNA with hallmarks of cancer reveals
+    role of microRNA-mediated downregulation of tumour suppressor genes
+  authors:
+  - Andrew Dhawan
+  - Jacob G. Scott
+  - Adrian L. Harris
+  - Francesca M. Buffa
+  publisher: Cold Spring Harbor Laboratory
+  date: '2017-12-22'
+  link: https://doi.org/gkt8s4
+  orcid: 0000-0002-5027-1277
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/203729
+  title: '<i>sigQC</i>: A procedural approach for standardising the evaluation of
+    gene signatures'
+  authors:
+  - Andrew Dhawan
+  - Alessandro Barberis
+  - Wei-Chen Cheng
+  - Enric Domingo
+  - Catharine West
+  - Tim Maughan
+  - Jacob G. Scott
+  - Adrian L. Harris
+  - Francesca M. Buffa
+  publisher: Cold Spring Harbor Laboratory
+  date: '2017-10-16'
+  link: https://doi.org/gkw2np
+  orcid: 0000-0002-5027-1277
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.48550/arxiv.1704.04454
+  title: Simulated Ablation for Detection of Cells Impacting Paracrine Signalling
+    in Histology Analysis
+  authors:
+  - Jake P. Taylor-King
+  - Etienne Baratchart
+  - Andrew Dhawan
+  - Elizabeth A. Coker
+  - Inga Hansine Rye
+  - Hege Russnes
+  - S. Jon Chapman
+  - David Basanta
+  - Andriy Marusyk
+  publisher: arXiv
+  date: '2017-01-01'
+  link: https://doi.org/gs7sgn
+  orcid: 0000-0002-5027-1277
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/075846
   title: Collateral sensitivity networks reveal evolutionary instability and novel
     treatment strategies in ALK mutated non-small cell lung cancer
@@ -437,6 +907,107 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2016-09-19'
   link: https://doi.org/gkv7fx
+  orcid: 0000-0002-5027-1277
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1940-6207.CAPR-15-0248
+  title: A Computational Modeling Approach for Deriving Biomarkers to Predict Cancer
+    Risk in Premalignant Disease
+  authors:
+  - Andrew Dhawan
+  - Trevor A. Graham
+  - Alexander G. Fletcher
+  publisher: Cancer Prevention Research
+  date: '2016-03-31'
+  link: https://doi.org/gqpwdm
+  orcid: 0000-0002-5027-1277
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/srep18074
+  title: Mathematical modelling of phenotypic plasticity and conversion to a stem-cell
+    state under hypoxia
+  authors:
+  - Andrew Dhawan
+  - Seyed Ali Madani Tonekaboni
+  - Joseph H. Taube
+  - Stephen Hu
+  - Nathalie Sphyris
+  - Sendurai A. Mani
+  - Mohammad Kohandel
+  publisher: Scientific Reports
+  date: '2016-02-03'
+  link: https://doi.org/f8p7cb
+  orcid: 0000-0002-5027-1277
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/ncomms7139
+  title: Temporally sequenced anticancer drugs overcome adaptive resistance by targeting
+    a vulnerable chemotherapy-induced phenotypic transition
+  authors:
+  - Aaron Goldman
+  - Biswanath Majumder
+  - Andrew Dhawan
+  - Sudharshan Ravi
+  - David Goldman
+  - Mohammad Kohandel
+  - Pradip K. Majumder
+  - Shiladitya Sengupta
+  publisher: Nature Communications
+  date: '2015-02-11'
+  link: https://doi.org/f623r2
+  orcid: 0000-0002-5027-1277
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1259/bjr.20140377
+  title: 'Efficacy of dose escalation on TCP, recurrence and second cancer risks:
+    a mathematical study'
+  authors:
+  - V S K Manem
+  - A Dhawan
+  - M Kohandel
+  - S Sivaloganathan
+  publisher: The British Journal of Radiology
+  date: '2014-11-01'
+  link: https://doi.org/gs7sgp
+  orcid: 0000-0002-5027-1277
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/1742-4682-11-49
+  title: 'Stochastic model for tumor control probability: effects of cell cycle and
+    (a)symmetric proliferation'
+  authors:
+  - Andrew Dhawan
+  - Kamran Kaveh
+  - Mohammad Kohandel
+  - Sivabal Sivaloganathan
+  publisher: Theoretical Biology and Medical Modelling
+  date: '2014-11-22'
+  link: https://doi.org/gs7sgq
+  orcid: 0000-0002-5027-1277
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0096093
+  title: Tumour Control Probability in Cancer Stem Cells Hypothesis
+  authors:
+  - Andrew Dhawan
+  - Mohammad Kohandel
+  - Richard Hill
+  - Sivabal Sivaloganathan
+  publisher: PLoS ONE
+  date: '2014-05-08'
+  link: https://doi.org/gs7sgr
+  orcid: 0000-0002-5027-1277
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/acc.2012.6314720
+  title: Designing synchronization protocols in networks of coupled nodes under uncertainty
+  authors:
+  - A. Dhawan
+  - A. Hamadeh
+  - B. Ingalls
+  publisher: 2012 American Control Conference (ACC)
+  date: '2012-06-01'
+  link: https://doi.org/gs7sgs
   orcid: 0000-0002-5027-1277
   plugin: orcid.py
   file: orcid.yaml
