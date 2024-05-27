@@ -1,5 +1,27 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2024.05.04.592546
+  title: Homologous recombination promotes mitotic death to suppress the innate immune
+    response
+  authors:
+  - Radoslaw Szmyd
+  - Sienna Casolin
+  - Lucy French
+  - Anna Gonzalez Manjon
+  - Andrew Dhawan
+  - Christopher B. Nelson
+  - "L\xE9a Cavalli"
+  - Scott G. Page
+  - Eric Hau
+  - Hilda A. Pickett
+  - Harriet E. Gee
+  - Anthony J. Cesare
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-05-06'
+  link: https://doi.org/gtt3sz
+  orcid: 0000-0002-5027-1277
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1002/acn3.52046
   title: 'Exploring the neurological features of individuals with germline <scp>PTEN</scp>
     variants: A multicenter study'
