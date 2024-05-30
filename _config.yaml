@@ -4,6 +4,9 @@ subtitle:
 description: Unraveling brain tumors and neurogenetic diseases using computational genomics. Translating discovery and biomarkers to improve patient care.
 header: images/background.jpg
 footer: images/background.jpg
+header-dark: false
+footer-dark: true
+proofer: false
 
 # site social media and other links
 links:
