@@ -21,17 +21,4 @@ nav:
 
 **Climate and neurological health:** Our group has produced the first large-scale review of the neurological effects of climate change. As this is an issue of pressing global concern, we are committed to identifying better ways of not only measuring the health effects of climate change at a population level, but better understanding its effect through a mechanistic level.
 
-<!-- {% include tags.html tags="publication, resource, website" %} -->
-<!-- {% include search-info.html %} -->
 
-<!-- {% include section.html %} -->
-
-<!-- ## Featured -->
-
-<!-- {% include list.html component="card" data="projects" filters="group: featured" %} -->
-
-<!-- {% include section.html %} -->
-
-<!-- ## More -->
-
-<!-- {% include list.html component="card" data="projects" filters="group: " style="small" %} --> 
