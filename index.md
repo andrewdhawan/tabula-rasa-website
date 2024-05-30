@@ -1,84 +1,28 @@
 ---
+layout: default
+title: "Home"
 ---
 
-# Welcome to the Tabula Rasa Lab!
-
-## We study brain tumors and neurogenetic diseases using data science, computational genomics, and experimental biology.
-## Translating discoveries and biomarkers to improve patient care.
-
-**Cleveland Clinic Lerner Research Institute**
-
-{% include section.html %}
-
-## Highlights
+## WELCOME TO THE TABULA RASA LAB!
 
 {% capture text %}
-
-Glioblastoma biology, miRNA therapeutics, wearables, and -omics.
-
-{%
-  include button.html
-  link="research"
-  text="See our publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
+<div style="text-align: left;">
+  The Tabula Rasa lab develops, validates, and implements biomarkers for neuro-oncologic and neuro-genetic diseases. These biomarkers are critical to improving the care for patients with neurological diseases such as glioblastoma, which lack cures or treatments that are effective in the long-term. By developing biomarkers for neurologic diseases, we hope to diagnose these conditions earlier, estimate prognosis more accurately, identify when treatments are and are not working, and improve how clinical trials are run. Neurologists use signs and symptoms and the clinical history reported by the patient or caregiver to infer the disease process, its etiology, disease progression, and its response to treatment. Biomarkers quantify these changes and can help to identify specific disease subtypes, such as those that are more likely to respond to a particular treatment. Our lab uses applied mathematics, computer science, data science, genomics, wet lab biology, and patient registry studies to identify and test biomarkers. We aim to improve patient quantity and quality of life using biomarker-driven neurology.
+</div>
 {% endcapture %}
 
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title="Our Research"
-  text=text
-%}
+<div class="lab-description">
+  {{ text }}
+</div>
 
-{% capture text %}
+## PRINCIPAL INVESTIGATOR
 
-See the latest publications from our lab!
+<div style="display: flex; align-items: flex-start; margin-top: 20px;">
+  <div style="flex: 1; padding-right: 20px;">
+    <img src="images/dhawana.jpg" alt="Dr. Dhawan" style="max-width: 100%; height: auto;">
+  </div>
+  <div style="flex: 2; text-align: left;">
+    <p style="line-height: 1.5; margin-bottom: 1em;">A mathematician and computer scientist turned neuro-oncologist, Dr. Dhawan uses his background in data science to more accurately diagnose, treat and prognosticate neurological diseases. He holds appointments in Cleveland Clinic’s Lerner Research Institute and Taussig Cancer Center, where he is assistant staff in the Rose Ella Burkhardt Brain Tumor and Neuro-Oncology Center. Dr. Dhawan’s research approach is interdisciplinary, having learned from experts in cancer biology, non-coding RNA biology, and evolutionary biology, alongside bioinformatics, data science, and applied mathematics. He has established the first suite of statistical metrics in a simple computational tool (sigQC) for the systematic evaluation of gene signature quality, now used by researchers worldwide for translational science. Dr. Dhawan collaborates with multiple researchers and physicians at Cleveland Clinic and other institutions on ongoing research projects for diseases including glioblastoma, glioma, meningioma, PTEN hamartoma tumor syndrome, tuberous sclerosis complex and leptomeningeal carcinomatosis.</p>
+  </div>
+</div>
 
-{%
-  include button.html
-  link="projects"
-  text="Browse our projects"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
-  flip=true
-  style="bare"
-  text=text
-%}
-
-{% capture text %}
-
-We have a number of open projects, and are looking for clever and creative minds to help!
-
-{%
-  include button.html
-  link="team"
-  text="Meet our team"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
-  text=text
-%}
