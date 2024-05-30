@@ -8,6 +8,7 @@ title: "Home"
 {% capture text %}
 <div style="text-align: left;">
   <p style="line-height: 1.5; margin-bottom: 1em;"> Tabula Rasa lab develops, validates, and implements biomarkers for neuro-oncologic and neuro-genetic diseases. These biomarkers are critical to improving the care for patients with neurological diseases such as glioblastoma, which lack cures or treatments that are effective in the long-term. By developing biomarkers for neurologic diseases, we hope to diagnose these conditions earlier, estimate prognosis more accurately, identify when treatments are and are not working, and improve how clinical trials are run. Neurologists use signs and symptoms and the clinical history reported by the patient or caregiver to infer the disease process, its etiology, disease progression, and its response to treatment. Biomarkers quantify these changes and can help to identify specific disease subtypes, such as those that are more likely to respond to a particular treatment. Our lab uses applied mathematics, computer science, data science, genomics, wet lab biology, and patient registry studies to identify and test biomarkers. We aim to improve patient quantity and quality of life using biomarker-driven neurology.
+  </p>
 </div>
 {% endcapture %}
 
