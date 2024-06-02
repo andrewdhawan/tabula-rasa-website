@@ -1,5 +1,5 @@
 ---
-name: Rana Abdelgawad
+name: 
 image: images/rana.jpg
 description: Graduate Student
 role: 
