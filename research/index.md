@@ -5,20 +5,37 @@ nav:
   tooltip: Software, datasets, and more
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Projects
+# {% include icon.html icon="fa-solid fa-wrench" %} Research
 
-**miRNA as therapuetics:** We are exploring how 'cocktails' of miRNA can be given to modify global gene expression programs in glioblastoma, focusing on the EGFR pathway, a common amplification in adult patients with GBM. In the recurrent state, glioblastomas overexpress the EGFR pathway (despite a lack of amplification) and we will test whether the resistant state can be abrogated using miRNA targeting, serving as a proof of concept for a novel class of therapeutics in this disease. 
+The Tabula Rasa lab develops, validates, and implements biomarkers for neuro-oncologic and neuro-genetic diseases. These biomarkers are critical to improving the care for patients with neurological diseases such as glioblastoma, which lack cures or treatments that are effective in the long-term. By developing biomarkers for neurologic diseases, we hope to diagnose these conditions earlier, estimate prognosis more accurately, identify when treatments are and are not working, and improve how clinical trials are run. Neurologists use signs and symptoms and the clinical history reported by the patient or caregiver to infer the disease process, its etiology, disease progression, and its response to treatment. Biomarkers quantify these changes and can help to identify specific disease subtypes, such as those that are more likely to respond to a particular treatment. Our lab uses applied mathematics, computer science, data science, genomics, wet lab biology, and patient registry studies to identify and test biomarkers. We aim to improve patient quantity and quality of life using biomarker-driven neurology. 
 
-**Radiomics and machine learning:** Using novel methods of data analysis, we are developing new biomarkers and tools to help with understanding how brain tumors and metastatic disease to the brain evolves over time, and how to make better, more informed clinical decisions based on this information. 
+## Gene Signatures and Non-Coding RNA
 
-**circRNA:** An enigmatic and challenging aspect of RNA biology is what to do with the unmapped reads that come from standard RNA sequencing. Within this set of unmapped reads, a species of non-linear (circular) RNA molecules was found, resistant to degradation by common RNAse enzymes, and with a poorly understood role in cancer biology. We are working on ways to better identify these species of non-coding RNA and understand their function.
+<figure style="float: right; margin-left: 50px; max-width: 60%;">
+  <img src="/images/genesig.jpg" alt="Gene Signature" style="width: 90%; height: auto;">
+  <figcaption style="font-size: 0.8em;">Overview of approach used to identify hallmarks-associated miRNA and gene signatures</figcaption>
+</figure>
 
-**Mathematical models of tumor evolution:** The evolution of therapeutic resistance is the major issue in the treatment of central nervous system malignancies. By writing computer programs and equation systems that rely on basic assumptions of how tumors grow and evolve, we can better understand real-world tumor genetic data to recapitulate how evolution has occurred in a cancer. By understanding this, we hope to generate an understanding of how tumor evolution can be directed by therapies to prolong survival.
+The genomic revolution has provided incredibly detailed mechanistic insights into how individual cells behave in cancers, and how these patterns of activity drive disease. Understanding these large genomic datasets has relied on gene signatures, patterns of gene expression that indicate a phenotype of interest. Gene signatures have been developed for myriad biological phenomena: prognosis, cellular state, and diagnosis. However, most published gene signatures have not shown biological or clinical relevance outside the original datasets from which they were derived. 
 
-**Neurological manifestations of PTEN hamartoma tumor syndrome:** PTEN hamartoma tumor syndrome is an inherited predisposition to cancer, but with significant potential effects on neurodevelopment as well. Through collaborations with the Eng lab at the Lerner Research Institue, Cleveland Clinic, we are examining the neurological phenotypes in this condition, and using this to better define clinical trial endpoints and clinical care guidelines.
+We seek to identify new gene signatures, and new methods of developing gene signatures, with clinical relevance to bring these powerful tools to the clinic to help physicians more effectively prognosticate and treat disease. Specifically, we are interested in how non-coding RNA expression may function as a biomarker for neurological disorders. miRNA and circular RNA (circRNA) signatures may be detected readily in various biofluids and may help diagnose neurologic diseases earlier than alternative methods. We seek to identify specific miRNA and circRNA signatures that can function as potential diagnostic and therapeutic markers, using cerebrospinal fluid, blood, and tissue assays.
 
-**Genotype-phenotype mapping in tuberous sclerosis complex:** In collaboration with the Epilepsy Center at the Cleveland Clinic, we have been working on using high-dimensional semisupervised and unsupervised clustering methods on large datasets describin gthe phenotypes of patietns with tuberous sclerosis complex (TSC) to better define the genotype-phenotype map, with the goal of fostering early intervention in the most severe cases. 
+## Disease Risk Assessment and Prediction
 
-**Climate and neurological health:** Our group has produced the first large-scale review of the neurological effects of climate change. As this is an issue of pressing global concern, we are committed to identifying better ways of not only measuring the health effects of climate change at a population level, but better understanding its effect through a mechanistic level.
+<figure style="float: left; margin-left: 20px; max-width:50%;">
+  <img src="/images/drugresponse.jpg" alt="Drug Response" style="width: 100%; height: auto;">
+  <figcaption style="font-size: 0.8em;">Drug Collateral Sensitivity Network</figcaption>
+</figure>
 
+Our lab engages in broad collaborations aimed at developing comprehensive risk models for disease complications and progression. By integrating genomic profiling, imaging, and clinical data, we strive to identify predictors for specific outcomes or disease subtypes. This multifaceted approach allows us to create precise risk models that can significantly enhance patient care and treatment strategies.
+In addition to clinical data, we also seek to use wearable devices in patient care to better understand how disease impacts function, and whether continuous remote monitoring, in diseases like glioblastoma, can improve outcomes and care.
+
+## Clinical and Translational Research
+
+<figure style="float: right; margin-left: 50px; max-width: 60%;">
+  <img src="/images/pten.jpeg" alt="Clinical Research" style="width: 100%; height: auto;">
+  <figcaption style="font-size: 0.8em;">Clinical findings in patients with PTEN hamartoma tumor syndrome</figcaption>
+</figure>
+
+A further focus of our lab is the care for individuals with rare neurologic disorders. Dr. Dhawan has been involved in the care for individuals with PTEN hamartoma tumor syndrome, a rare genetic disorder leading to a predisposition towards tumors and neurodevelopmental challenges. The expanding spectrum of neurologic challenges faced by individuals with PTEN hamartoma tumor syndrome is a strong interest of the lab, and we have helped lead the development of clinical care guidelines for the management of neurologic features of this condition.
 
