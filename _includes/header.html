@@ -1,21 +1,9 @@
-{% assign image = page.header | default: site.header | relative_url %}
-{% assign dark = page.header-dark | is_nil: site.header-dark | is_nil: true %}
-
 {% assign svg = "images/logo.svg" | file_exists %}
 {% assign png = "images/logo.png" | file_exists %}
 {% assign jpg = "images/logo.jpg" | file_exists %}
 {% assign logo = svg | default: png | default: jpg | default: nil %}
 
-<header
-  class="background"
-  style="--image: url('{{ image }}')"
-  {% if dark == true or dark == false %}
-    data-dark="{{ dark }}"
-  {% endif %}
-  {% if page.url == "/" %}
-    data-big
-  {% endif %}
->
+<header class="header">
   <a href="{{ "/" | relative_url }}" class="home">
     {% if logo %}
       <span class="logo">
@@ -47,13 +35,47 @@
     %}
     {% for page in pages %}
       {% if page.nav %}
-        <a
-          href="{{ page.dir | relative_url }}"
-          data-tooltip="{{ page.nav.tooltip }}"
-        >
+        <a href="{{ page.url | relative_url }}" data-tooltip="{{ page.nav.tooltip }}">
           {{ page.title }}
         </a>
       {% endif %}
     {% endfor %}
+    <a href="https://andrewdhawan.wordpress.com/2019/09/15/on-hoofbeats/" target="_blank">
+      Blog
+    </a>
   </nav>
 </header>
+
+<style>
+.header {
+  background-color: #001f3f; /* Dark navy background */
+  padding: 20px 30px; /* Increase padding for more width */
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: white; /* Ensure the header text color is white */
+}
+.header .home {
+  display: flex;
+  align-items: center;
+}
+.header .logo {
+  margin-right: 10px; /* Add space between logo and text */
+}
+.header .logo img {
+  max-height: 40px; /* Adjust logo size as needed */
+}
+.header .title {
+  margin-left: 10px; /* Adjust left margin for text */
+  color: white; /* Explicitly set the title text color to white */
+}
+.header nav {
+  display: flex;
+  align-items: center;
+}
+.header nav a {
+  color: white;
+  margin: 0 10px;
+  text-decoration: none;
+}
+</style>
