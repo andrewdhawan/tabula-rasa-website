@@ -6,3 +6,29 @@ main {
   flex-direction: column;
   flex-grow: 1;
 }
+
+.citation {
+  display: flex;
+  align-items: center;
+  padding: 10px; /* Add some padding for better spacing */
+}
+
+.citation-image {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 100px; /* Ensure the container has a minimum width */
+  min-height: 100px; /* Ensure the container has a minimum height */
+  margin-right: 20px; /* Space between badge and text */
+}
+
+.altmetric-embed {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.citation-text {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
