@@ -1,1 +1,9 @@
-onerror="this.src = '{{ "images/fallback.svg" | relative_url }}'; this.onerror = null;"
+{% if include.doi %}
+  <div data-badge-popover="left" data-badge-type="donut" data-doi="{{ include.doi }}" class="altmetric-embed"></div>
+  <script async src="//d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+  <noscript>
+    <img src="https://badges.altmetric.com/?size=100&score={{ include.doi | uri_escape }}&types=em" alt="Altmetric Badge">
+  </noscript>
+{% else %}
+  <img src="{{ 'images/fallback.svg' | relative_url }}" alt="Fallback Image">
+{% endif %}
