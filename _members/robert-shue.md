@@ -1,6 +1,6 @@
 ---
 name: Robert Shue
-image: images/robert.png
+image: images/fallback.svg
 role: Medical Student
 group: 
 links:
