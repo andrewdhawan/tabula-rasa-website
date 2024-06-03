@@ -1,0 +1,87 @@
+{% assign svg = "images/logo.svg" | file_exists %}
+{% assign png = "images/logo.png" | file_exists %}
+{% assign jpg = "images/logo.jpg" | file_exists %}
+{% assign logo = svg | default: png | default: jpg | default: nil %}
+
+<header class="header">
+  <a href="{{ "/" | relative_url }}" class="home">
+    {% if logo %}
+      <span class="logo">
+        {% if svg %}
+          {{ svg | file_read }}
+        {% else %}
+          <img src="{{ logo | relative_url }}" alt="logo">
+        {% endif %}
+      </span>
+    {% endif %}
+    {% if site.logo-text != false %}
+      <span class="title" data-tooltip="Home">
+        {% if site.title and site.show-title != false %}
+          <span>{{ site.title }}</span>
+        {% endif %}
+        {% if site.subtitle and site.show-subtitle != false %}
+          <span>{{ site.subtitle }}</span>
+        {% endif %}
+      </span>
+    {% endif %}
+  </a>
+
+  <input class="nav-toggle" type="checkbox" aria-label="show/hide nav">
+
+  <nav>
+    {% assign pages = site.pages
+      | where_exp: "page", "page.nav"
+      | sort: "nav.order"
+    %}
+    {% for page in pages %}
+      {% if page.nav %}
+        <a href="{{ page.url | relative_url }}" data-tooltip="{{ page.nav.tooltip }}">
+          {{ page.title }}
+        </a>
+      {% endif %}
+    {% endfor %}
+    <a href="https://andrewdhawan.wordpress.com/2019/09/15/on-hoofbeats/" target="_blank">
+      Blog
+    </a>
+  </nav>
+</header>
+
+<img src="{{ 'images/background.jpg' | relative_url }}" alt="Background Image" class="background-image">
+
+<style>
+.header {
+  background-color: #001f3f; /* Dark navy background */
+  padding: 20px 30px; /* Increase padding for more width */
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.header .home {
+  display: flex;
+  align-items: center;
+}
+.header .logo {
+  margin-right: 10px; /* Add space between logo and text */
+}
+.header .logo img {
+  max-height: 40px; /* Adjust logo size as needed */
+}
+.header .title {
+  color: white;
+  margin-left: 10px; /* Adjust left margin for text */
+}
+.header nav {
+  display: flex;
+  align-items: center;
+}
+.header nav a {
+  color: white;
+  margin: 0 10px;
+  text-decoration: none;
+}
+.background-image {
+  width: 100%;
+  display: block;
+  margin-top: 20px; /* Optional: adjust spacing as needed */
+}
+</style>
