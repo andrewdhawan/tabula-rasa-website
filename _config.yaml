@@ -16,6 +16,8 @@ links:
   github: andrewdhawan
   twitter: andrewdhawan
 
+### jekyll settings
+
 # front matter defaults
 defaults:
   # all markdown files
