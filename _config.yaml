@@ -6,6 +6,7 @@ header: images/background.jpg
 footer: images/background.jpg
 header-dark: false
 footer-dark: true
+proofer: false
 
 # site social media and other links
 links:
@@ -14,29 +15,6 @@ links:
   google-scholar: j6jXXfwAAAAJ
   github: andrewdhawan
   twitter: andrewdhawan
-
-# navigation links
-nav:
-  - title: Publications
-    url: /publications/
-    order: 1
-  - title: Research
-    url: /research/
-    order: 2
-  - title: Blog
-    url: https://andrewdhawan.wordpress.com/2019/09/15/on-hoofbeats/
-    order: 3
-  - title: Team
-    url: /team/
-    order: 4
-  - title: Join
-    url: /contact/
-    order: 5
-
-### jekyll settings
-
-watch: true
-force_polling: true
 
 # front matter defaults
 defaults:
