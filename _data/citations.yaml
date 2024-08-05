@@ -147,14 +147,14 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.2217/cns-2022-0008
-  title: "First clinical experience with belzutifan in von Hippel\u2013Lindau disease\_\
-    associated CNS hemangioblastoma"
+  title: "First clinical experience with belzutifan in von Hippel\u2013Lindau disease\
+    \ associated CNS hemangioblastoma"
   authors:
   - Andrew Dhawan
   - David M Peereboom
   - Glen HJ Stevens
   publisher: CNS Oncology
-  date: '2022-09-01'
+  date: '2022-07-12'
   link: https://doi.org/gsb3cp
   orcid: 0000-0002-5027-1277
   plugin: orcid.py
@@ -233,12 +233,12 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.2217/bmm-2021-0092
-  title: 'Extracellular miRNA biomarkers in neurologic disease: is cerebrospinal fluid
-    helpful?'
+  title: 'Extracellular Mirna Biomarkers in Neurologic Disease: Is Cerebrospinal Fluid
+    Helpful?'
   authors:
   - Andrew Dhawan
   publisher: Biomarkers in Medicine
-  date: '2021-10-01'
+  date: '2021-09-13'
   link: https://doi.org/gsb3ct
   orcid: 0000-0002-5027-1277
   plugin: orcid.py
